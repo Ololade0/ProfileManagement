@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ac25db1-5c2e-4ecf-b0cd-3c1177cef9e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/UserProfiles.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserProfiles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserProfiles/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserProfiles/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserProfiles/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserProfiles/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/schemas.py" afterDir="false" />
-    </list>
+    <list default="true" id="7ac25db1-5c2e-4ecf-b0cd-3c1177cef9e7" name="Changes" comment="userprofile" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ololade0"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Ololade0/ProfileManagement",
@@ -46,7 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "usermanagement",
     "last_opened_file_path": "C:/Users/Ololade.DESKTOP-PFEBVDB/PycharmProjects/UserProfiles/users",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -103,11 +95,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728659212220</updated>
-      <workItem from="1728659214212" duration="1238000" />
+      <workItem from="1728659214212" duration="1883000" />
     </task>
+    <task id="LOCAL-00001" summary="userprofile">
+      <option name="closed" value="true" />
+      <created>1728660585678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728660585679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="userprofile" />
+    <option name="LAST_COMMIT_MESSAGE" value="userprofile" />
   </component>
 </project>
